@@ -2,6 +2,8 @@
   "javascript.preferences.quoteStyle": "single",
   "typescript.preferences.quoteStyle": "single",
   "cSpell.words": [
+    "browserslist",
+    "clsx",
     "typecheck"
   ],
   "files.associations": {
