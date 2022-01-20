@@ -1,8 +1,35 @@
 {
-    "cSpell.words": [
-        "typecheck"
-    ],
-    "files.associations": {
-        "*.md": "mdx"
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "cSpell.words": [
+    "typecheck"
+  ],
+  "files.associations": {
+    "*.md": "mdx"
+  },
+  "todohighlight.keywords": [
+    {
+      "text": "NOTE:",
+      "color": "white",
+      "backgroundColor": "grey",
+      "overviewRulerColor": "grey"
     },
+    {
+      "text": "BUG:",
+      "color": "#ff0000",
+      "backgroundColor": "yellow",
+      "overviewRulerColor": "grey"
+    },
+    {
+      "text": "XXX:",
+      "color": "#ff0000",
+      "backgroundColor": "yellow",
+      "overviewRulerColor": "grey"
+    },
+    {
+      "text": "HACK:",
+      "color": "#000",
+      "isWholeLine": false,
+    },
+  ],
 }
