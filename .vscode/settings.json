@@ -1,0 +1,8 @@
+{
+    "cSpell.words": [
+        "typecheck"
+    ],
+    "files.associations": {
+        "*.md": "mdx"
+    },
+}
